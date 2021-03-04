@@ -1,0 +1,35 @@
+(1,0 ponto) - Entrega da 5ª lista de exercícios: seus .java e digrama de classes do SEU projeto desenvolvido durante as aulas.
+Prezados, como conversado em sala desde de o início do semestre:
+
+(1,0 ponto) - Entrega da 5ª lista de exercícios: seus .java e digrama de classes do SEU projeto desenvolvido durante as aulas.
+
+Compacte em um único arquivo:
+
+- seus códigos fontes (.java), desenvolvidos durante as aulas;
+
+- e também o diagrama de classes utilizado para construí-lo;
+
+Nomeie o arquivo da seguinte forma:
+
+seuNomecompleto+Projeto_Individual_2019-1.zip (ou .z7, ou .rar)
+
+Exemplo:
+
+JoseAntonioGonçalves_Projeto_Individual_2019-1.zip (ou .z7, ou .rar)
+Sua implementação deverá possuir exemplos de todo conteúdo visto até o momento, como:
+
+- classes, objetos;
+
+- métodos construtores;
+
+- encapsulamento;
+
+- métodos getters e setters;
+
+- reflexividade;
+
+- polimorfismo: sobrecarga, sobrescrito e coercitivo;
+
+- classes e métodos abstratos;
+
+- etc.
